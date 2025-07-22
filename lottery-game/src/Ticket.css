@@ -1,0 +1,14 @@
+.Ticket {
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px dashed #aaa;
+  width: fit-content;
+  background-color: #fffbe6;
+  border-radius: 12px;
+}
+
+.ticket-numbers {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
